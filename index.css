@@ -39,6 +39,26 @@ h2 {
     padding-bottom: 5px;
     
 }
+h3 {
+    margin-left: 300px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    color: #a70404;
+    border-bottom: 2px solid #d31919;
+    width: 140px;
+    padding-bottom: 5px;
+    
+}
+h4 {
+    margin-left: 300px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    color: #a70404;
+    border-bottom: 2px solid #d31919;
+    width: 140px;
+    padding-bottom: 5px;
+    
+}
 
 ul {
     margin-left: 20px;
